@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @iggyw1g
+- 👋 Hi, I’m Alisa
 - 👀 I’m interested in software design and engineering
 - 🌱 I’m currently learning python 
 
