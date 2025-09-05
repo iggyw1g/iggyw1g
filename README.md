@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Alisa
-- 👀 I’m interested in software design and engineering
-- 🌱 I’m currently learning python, HTML and CSS
+- 🌱 I’m currently learning C++
 
 <!---
 iggyw1g/iggyw1g is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
